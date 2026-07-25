@@ -1,0 +1,7 @@
+numpy = 2.3.3
+scikit-learn = 1.7.2
+torch = 2.9.0
+torchvision = 0.24.0
+geoopt = 0.5.1
+networkx = 3.5
+scipy = 1.16.3
