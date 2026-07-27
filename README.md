@@ -17,7 +17,7 @@ bash run_htsg.sh
 ```
 
 ## Copyright & Originality Statement
-1. The three core modules RSF, TSG and GSM are independently conceived and originally developed by the authors of this paper.
+1. The three core modules RSF, TSG and GSM are independently conceived and originally developed by the authors.
 
 2. This repository is only used to reserve the original development timestamp as proof of intellectual property.
 
